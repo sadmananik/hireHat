@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Guide>
+<faq>
+          <q>What is it?</q>
+          <a>Its an online marketplace</a>
+</faq>
+<faq>
+          <q>How to hire a person?</q>
+          <a>Fisrt open an account in our website as a chief. Then post a job according to your requirement. Then hire form the applicants.</a>
+
+</faq>
+<faq>
+          <q>How to be hired?</q>
+          <a>Fisrt open an account in our website as a staff. search for your job in the search bar and apply.</a>
+          
+</faq>
+<faq>
+          <q>How to create a team?</q>
+          <a>Login to your account, head to the team tab. here you can create a team by clicking the create team button. but first you need to select a job.</a>
+          
+</faq>
+<faq>
+          <q>How to add a person in the team?</q>
+          <a>Login to your account, head to the team tab. here you can find all the team you created. Add person to a specific team.</a>
+          
+</faq>
+</Guide>
